@@ -11,7 +11,7 @@ I'm a PhD. Student at ETS in Montreal. I'm interested in mobile manipulator robo
 ### Experience
 These are some technologies I use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,cpp,cmake,docker,git,github,latex,ubuntu,md,py,ros,vscode,clion,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,cpp,cmake,docker,git,github,latex,ubuntu,md,ros,vscode,clion,eclipse)](https://skillicons.dev)
 
 
 
