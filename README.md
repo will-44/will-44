@@ -6,6 +6,7 @@ I'm a PhD. Student at ETS in Montreal. I'm interested in mobile manipulator robo
 - [curobo_ros](https://github.com/Lab-CORO/curobo_ros): My current project for a light implementation of Curobo
 - [cleaning](https://github.com/Lab-CORO/cleaning): The first iteration of my cleaning algorithm to write an article
 - [CapacityNet](https://github.com/Lab-CORO/CapaciNet): The data generation for a futur CNN to generate capacity map in real-time
+- [HoloSoft](https://github.com/will-44/holosoft.git): A software for the control of an omnidirectional robot with a stm32 
 
 ### Experience
 These are some technologies I use:
